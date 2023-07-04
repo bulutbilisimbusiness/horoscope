@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bulutbilisimbusiness/horoscope.git/static/css/main.18a80d24.css",
+    "main.js": "/bulutbilisimbusiness/horoscope.git/static/js/main.20f4f4ea.js",
+    "static/media/logo.png": "/bulutbilisimbusiness/horoscope.git/static/media/logo.d6c42622bddf5a8e7575.png",
+    "index.html": "/bulutbilisimbusiness/horoscope.git/index.html",
+    "main.18a80d24.css.map": "/bulutbilisimbusiness/horoscope.git/static/css/main.18a80d24.css.map",
+    "main.20f4f4ea.js.map": "/bulutbilisimbusiness/horoscope.git/static/js/main.20f4f4ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18a80d24.css",
+    "static/js/main.20f4f4ea.js"
+  ]
+}
